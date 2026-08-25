@@ -22,3 +22,6 @@ web/vite.config.js
 tmp_*.png
 .DS_Store
 Thumbs.db
+
+# 本地凭据（GitHub token，绝不入库）
+.github-token
