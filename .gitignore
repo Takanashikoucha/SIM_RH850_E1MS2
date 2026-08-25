@@ -1,0 +1,24 @@
+# 工具链（本地安装，不入库）
+.rust/
+.npm-cache/
+.npm/
+.playwright-browsers/
+playwright-browsers/
+
+# 手册 PDF（体积大；文本提取在 docs/manual/，见 docs/manual/README.md）
+*.pdf
+
+# 构建产物
+web/dist/
+web/node_modules/
+node_modules/
+sim/target/
+*.tsbuildinfo
+web/vite.config.d.ts
+web/vite.config.js
+
+# 临时/本地状态
+*.log
+tmp_*.png
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+Symbol Table:
+g_counter 00001000 4
+g_result 00001004 4
+g_total 00001008 4
+g_grade 0000100C 4
+p_store 00001010 4
+arr0 00001014 4
+arr1 00001018 4
+arr2 0000101C 4
+arr3 00001020 4
+pt_x 00001024 4
+pt_y 00001028 4
